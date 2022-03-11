@@ -7,4 +7,4 @@ Scrappeur codé à l'aide de la librairie python selenium.
 Application web codée avec la librairie Dash de python.
 
 # Visuel de l'application :
-![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/capture_scrap.PNG?raw=true)
+![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/capture_scrap.png?raw=true)
