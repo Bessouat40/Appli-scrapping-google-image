@@ -10,5 +10,11 @@ Scrappeur codé à l'aide de la librairie python selenium.
 Application web codée avec la librairie Dash de python.
 Il est possible de renseigner plusieurs liens google image pour scrapper plus d'images en même temps. Il n'y a pas de doublons dans les images enregistrées.
 
+# Nombre de scrolls :
+Ce paramètre correspond au nombre de fois où l'algorithme descend la barre de recherche. Cela permet de charger plus d'images et donc d'en enregistrer plus.
+Renseigner plusieurs liens google image avec des recherches similaire (ex : recherche de chat, de chat roux, de chat jeune, de chat adulte, ...) permet d'obtenir plus de résultats et donc plus d'images.
+Sinon, le nombre de photos obtenues est assez faible.
+Avec environ 3 liens renseignés, et un nombre de scroll égal à 30, on arrive à récupérer environ 700 images.
+
 # Visuel de l'application :
 ![screenshot1](https://github.com/Bessouat40/Appli-scrapping-google-image/blob/main/capture_scrap.png?raw=true)
